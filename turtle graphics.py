@@ -1,4 +1,4 @@
-#created by Pawan Singh
+#created by Pawan singh
 import turtle
 pen = turtle.Turtle()
 def curve():
